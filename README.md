@@ -35,6 +35,7 @@ This repository contains a Python-based application that converts **Markdown** t
 
 ### Clone the Repository
 git clone https://github.com/miosion/markdown-to-word-converter.git
+
 cd markdown-to-word-converter
 
 ### Usage
@@ -87,6 +88,7 @@ The Word document will be saved in the specified directory.
 ### Клонирование репозитория
 
 git clone https://github.com/miosion/markdown-to-word-converter.git
+
 cd markdown-to-word-converter
 
 ### Использование
