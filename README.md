@@ -2,6 +2,8 @@
 
 This repository contains a Python-based application that converts **Markdown** text into a **Word (.docx)** document using a user-friendly interface built with **Flet**.
 
+You can use this to transfer Markdown tables from ChatGPT to Word.
+
 ## Features
 
 - **Markdown to Word conversion**: Supports text, headings, and tables.
@@ -53,6 +55,8 @@ The Word document will be saved in the specified directory.
 # Конвертер Markdown в Word
 
 Данное приложение на Python позволяет конвертировать текст в формате **Markdown** в документ **Word (.docx)** через удобный интерфейс, созданный с помощью **Flet**.
+
+Вы можете использовать его, чтобы перенести Markdown таблицы из ChatGPT в Word.
 
 ## Возможности
 
