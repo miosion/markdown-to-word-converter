@@ -78,7 +78,7 @@ The Word document will be saved in the specified directory.
 
 ### Предварительные требования
 
-- Python 3.8+
+- Python 3.9
 - Установите необходимые библиотеки через `pip`:
 
   ```bash
